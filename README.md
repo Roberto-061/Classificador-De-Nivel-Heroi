@@ -21,7 +21,7 @@ O Herói de nome {nome} está no nível de {nivel}
 2. Clone ou baixe este repositório.
 3. No terminal, navegue até a pasta do projeto e execute:
 ```
-node classificadorHeroi.js
+node index.js
 ```
 4. Veja o resultado no console.
 ## Personalização
